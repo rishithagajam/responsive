@@ -17,10 +17,10 @@ a{
     transition: all 0.3s ease;
 }
 a:hover{
-   color: red;
+   color: rgb(236, 93, 255);
    text-decoration: underline;
    text-underline-offset: 10px;
-   text-decoration-color: red;
+   text-decoration-color: rgb(236,93,255);
 }
 .navbar{
     display: flex;
@@ -32,7 +32,7 @@ a:hover{
     width: 40%;
     font-size: 30px;
     font-weight: 600;
-    color: red;
+    color: rgb(107, 1, 121);
 }
 .menu-bar{
     width: 60%;
@@ -68,7 +68,7 @@ a:hover{
 }
 h1{
     font-size: 50px;
-    color: darkorange;
+    color: rgb(107, 1, 121);
 }
 .sec-1-2-3{
     font-weight: 600;
@@ -369,8 +369,8 @@ p{
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 80vh;
-    padding-top: 200px;
+    height: 100vh;
+    padding-top: 500px;
     gap: 100px;
     margin-bottom: 50px;
 }
